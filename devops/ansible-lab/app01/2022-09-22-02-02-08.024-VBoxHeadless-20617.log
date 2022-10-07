@@ -1,0 +1,12 @@
+Log created: 2022-09-22T02:02:08.247322000Z
+Process ID:  20617 (0x5089)
+Parent PID:  822 (0x336)
+Executable:  /opt/VirtualBox/VBoxHeadless
+Arg[0]: /opt/VirtualBox/VBoxHeadless
+Arg[1]: --comment
+Arg[2]: app01_default_1663728089076_55666
+Arg[3]: --startvm
+Arg[4]: 082e6df2-c01d-4684-93ad-0dfddf0e2954
+Arg[5]: --vrde
+Arg[6]: config
+AddRef: illegal refcnt=3221225469 state=2
